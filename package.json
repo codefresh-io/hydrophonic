@@ -1,12 +1,19 @@
 {
   "name": "hydrophonic",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Streamed Docker-Engine client library, instrumented and interfaced with Kefir.js",
   "main": "./lib/hydrophonic.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["stream", "engine", "docker", "client", "kefirjs", "kefir"],
+  "keywords": [
+    "stream",
+    "engine",
+    "docker",
+    "client",
+    "kefirjs",
+    "kefir"
+  ],
   "author": "Tal Weinfeld",
   "license": "MIT",
   "dependencies": {
